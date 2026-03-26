@@ -20,6 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 - **Author:** Manikant Mishra
 - **Repository:** JOB-PORTAL-FRONTEND-BACKEND-
 - **Deploy:** _Deploy link will be added here once available_
+- **Live Demo:** [![Live Demo](https://img.shields.io/badge/Live%20Demo-View-brightgreen)](https://job-portal-frontend--manimishra.vercel.app/)
 
 ## Notes
 
