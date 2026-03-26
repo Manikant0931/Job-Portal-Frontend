@@ -1,6 +1,8 @@
-#### React + Vite
 ## ***Live Demo:*** 
 ## [![Live Demo](https://img.shields.io/badge/Live%20Demo-View-brightgreen)](https://job-portal-frontend--manimishra.vercel.app/)
+
+
+#### React + VitE
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
