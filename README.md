@@ -28,3 +28,4 @@ If you are developing a production application, we recommend using TypeScript wi
 	1. Install dependencies: `npm install`
 	2. Start dev server: `npm run dev`
 
+Made By Mani Mishra:)
